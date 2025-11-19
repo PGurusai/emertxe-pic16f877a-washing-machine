@@ -1,6 +1,6 @@
 # Emertxe-PIC16F877A-Washing-Machine
-#**Emertxe internship project – Embedded C and PIC16F877A (PICSimLab) washing machine simulation
-** 
+#**Emertxe internship project – Embedded C and PIC16F877A (PICSimLab) washing machine simulation**
+
 ---
 
 This is one of the **Embedded Internship Projects** completed during the internship at **EMERTXE Information Technologies Pvt. Ltd.**
@@ -22,6 +22,7 @@ In this project, the PIC microcontroller controls every step of the machine—fr
 ## **🛠 Installation Requirements**
 
 To run this project, you will need:
+
 
 *[ **MPLAB X IDE** ](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide?gclid=Cj0KCQjwtrSLBhCLARIsACh6Rmj98yI7_Y5H--lwe8m4DN3FVB0o-k4u7y-e0-T-w_9Cct4qIL2pq20aAkIFEALw_wcB#tabs)
 * [**MPLAB XC8 Compiler**](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers?gclid=Cj0KCQjwtrSLBhCLARIsACh6Rmj-KmEgeZLWYdpD2qr2bs3wJx5kiOpLbDUEuGerZoyp6GZ4tR-WrMQaAltBEALw_wcB)
@@ -108,12 +109,5 @@ If you have any questions, improvements, or issues, feel free to reach out:
 📧 [puttugurusai@gmail.com](mailto:puttugurusai@gmail.com)
 
 ---
-
-If you want, I can also make:
-
-🔥 A **GitHub repo cover banner**
-🔥 A **LICENSE file**
-🔥 A professional **GitHub Pages project webpage**
-🔥 A **folder structure** ready for upload
-
+ 
 Just tell me — I’ll prepare everything.
