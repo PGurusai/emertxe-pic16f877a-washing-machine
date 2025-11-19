@@ -110,4 +110,3 @@ If you have any questions, improvements, or issues, feel free to reach out:
 
 ---
  
-Just tell me — I’ll prepare everything.
